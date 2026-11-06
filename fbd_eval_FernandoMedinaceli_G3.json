@@ -1,0 +1,24 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "668d455e-0c55-47b4-9669-9cd823176167",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1793968718955"
+        }
+      },
+      "favorite": {
+        "name": "ev_fbd_Fernando_Medinaceli"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    }
+  ]
+}
