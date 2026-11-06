@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6aedcba8ddbc429447d50e3b"
+  },
+  "id_articulo": 101,
+  "titulo": "Avengers Endgame",
+  "tipo": "Pelicula",
+  "precio_renta": 15,
+  "estado": "Rentado"
+},
+{
+  "_id": {
+    "$oid": "6aedcba8ddbc429447d50e3c"
+  },
+  "id_articulo": 102,
+  "titulo": "Spider-Man",
+  "tipo": "Pelicula",
+  "precio_renta": 10,
+  "estado": "Disponible"
+},
+{
+  "_id": {
+    "$oid": "6aedcba8ddbc429447d50e3d"
+  },
+  "id_articulo": 103,
+  "titulo": "FIFA 2026",
+  "tipo": "Videojuego",
+  "precio_renta": 20,
+  "estado": "Disponible"
+}]
